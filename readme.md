@@ -35,4 +35,9 @@ O resultado é um portfólio funcional, pronto para ser adaptado e utilizado por
     ```bash
    php -S localhost:8080
 
-![Imagem do projeto final](./assets/exemplo.jpg)
+## 🌄 Imagem do Projeto  
+Aqui está uma prévia do visual do projeto:
+
+<div align="center">
+  <img src="./assets/exemplo.jpg" alt="Portfólio Dev" width="600px">
+</div>
